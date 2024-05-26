@@ -1,4 +1,4 @@
-# Dự án Blockchain Demo bằng Python
+# Dự án Simple Blockchain Demo bằng Python chỉ sử dụng sha 256
 
 Dự án này là một minh họa đơn giản về blockchain bằng Python. Nó sử dụng thư viện `pygame` cho đồ họa, `hashlib` cho băm SHA-256, `time` cho dấu thời gian, và `json` cho lưu trữ dữ liệu.
 
